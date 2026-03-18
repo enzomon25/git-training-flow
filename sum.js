@@ -11,3 +11,5 @@ const fnMultiply = (a, b) => a * b;
 const multiplicarDosNumeros = applyOperation(fnMultiply);
 
 console.log(multiplicarDosNumeros(4, 2));
+
+console.log('Fin del programa');
