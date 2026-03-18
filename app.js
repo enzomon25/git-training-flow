@@ -16,3 +16,4 @@ console.log(restarDosNumeros(10, 5));
 console.log(divisionDosNumeros(10, 5));
 
 console.log(applyOperation(sumar)(3, 3));
+console.log(applyOperation(sumar)(3, 4));
